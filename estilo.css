@@ -164,7 +164,7 @@ main {
     top: 2rem;
     right: 3rem;
     font-size: 2rem;
-    background: blue;
+    background: red;
     border-color: transparent;
     color: var(--clr-primary-5);
     transition: var(--transition);
@@ -173,7 +173,7 @@ main {
   }  
 
 .sidebar-toggle:hover {
-  background-color: red;
+  background-color: green;
 }
 
 @keyframes bounce {
